@@ -1,7 +1,8 @@
-- Run `git clone https://github.com/ruffbuff/megagen`
-- Then => `cd megagen`, `npm install`
-- Open `config.json` set-up attributes, set-up metadata, drop image layers in to the `layers` folder.
-- When ready with generator, run `node s.js`, set `1` to generate images, set `2` to remake `image base URL` (After done with IPFS)
+- 1: Run `git clone https://github.com/ruffbuff/megagen`
+- 2: Then `cd megagen`, `npm install`
+- 3: Open `config.json` set-up attributes, set-up metadata, and drop image layers in to the `layers` folder.
+
+When ready with generator, run `node s.js`, set `1` to generate images, set `2` to remake `image base URL` (After done with IPFS CID)
 
 megagen developed by:
 ```solidity
