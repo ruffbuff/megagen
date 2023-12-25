@@ -1,0 +1,15 @@
+{
+  "name": "megagen",
+  "version": "1.0.0",
+  "description": "image && metadata generator",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ruffbuff",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}

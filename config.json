@@ -1,0 +1,30 @@
+{
+    "width": 2000,
+    "height": 2000,
+    "name": "Whale",
+    "collectionName": "MustacheDAO: Whales",
+    "description": "Whales Whales Whales.",
+    "image": "https://yourdomain.com/nft/images/",
+    "layers": [
+        {
+            "folder": "skin",
+            "options": ["skin_classic.png"]
+        },
+        {
+            "folder": "top",
+            "options": ["top_angel.png", "top_devil.png", "top_samurai.png"]
+        },
+        {
+            "folder": "bottom",
+            "options": ["bot_captain.png", "bot_homeless.png", "bot_onetwo.png"]
+        },
+        {
+            "folder": "mid",
+            "options": ["mid_elmustache.png", "mid_lumustache.png"]
+        },
+        {
+            "folder": "utils",
+            "options": ["utils_pipe.png"]
+        }
+    ]
+}
