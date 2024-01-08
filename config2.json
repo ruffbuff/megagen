@@ -1,0 +1,12 @@
+{
+    "name": "Potion",
+    "collectionName": "MustacheDAO: Potions",
+    "description": "Magic Potion? But for what? For your health? Or for you and your family? Or for the whole world?",
+    "image": "https://yourdomain.com/nft/images/",
+    "potionTypes": [
+        "Metall",
+        "Dragon",
+        "Pinky",
+        "Zombie"
+    ]
+}
