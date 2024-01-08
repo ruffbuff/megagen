@@ -60,7 +60,7 @@ When ready with generator, run `node s.js`, set `1` to generate images, set `2` 
     "name": "Potion",                                                                                                   // CHANGE
     "collectionName": "MustacheDAO: Potions",                                                                           // CHANGE
     "description": "Magic Potion? But for what? For your health? Or for you and your family? Or for the whole world?",  // CHANGE
-    "image": "https://yourdomain.com/nft/images/",                                                                      // CHANGE
+    "image": "https://yourdomain.com/nft/images/",                                                                      // CHANGE WITH 2nd command
     "potionTypes": [                                                                                                    // CHANGE
         "Metall",
         "Dragon",
